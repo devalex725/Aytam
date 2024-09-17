@@ -19,9 +19,9 @@ const FooterSection = () => {
       <div className="col-span-2 text-center">
         <div className="max-w-[900px] grid md:grid-cols-3 grid-cols-1 gap-[12px]">
           <div className="flex flex-col md:gap-[32px] gap-[12px]">
-            <div className="text-[#000504] text-[20px]">{`Navigation`}</div>
+            <div className="text-[#000504] text-[20px]">{`ملاحة`}</div>
             <div>
-              <a href="#aboutus">{`معلومات عنا`}</a>{' '}
+              <a href="#aboutus">{`معلومات عنا`}</a>
             </div>
             <div>
               <a href="#services">{`خدمات`}</a>
@@ -35,14 +35,14 @@ const FooterSection = () => {
           </div>
 
           <div className="flex flex-col md:gap-[32px]  gap-[12px]">
-            <div className="text-[#000504] text-[20px]">{`Help`}</div>
+            <div className="text-[#000504] text-[20px]">{`يساعد`}</div>
             <div>{`التعليمات`}</div>
             <div>{`شروط الاستخدام`}</div>
             <div>{`سياسة الخصوصية`}</div>
           </div>
 
           <div className="flex flex-col md:gap-[32px]  gap-[12px]">
-            <div className="text-[#000504] text-[20px]">{`Follow us on`}</div>
+            <div className="text-[#000504] text-[20px]">{`تابعونا على`}</div>
             <div className="flex items-center justify-center gap-[24px]">
               <a href="https://facebook.com" target="_blank">
                 <Image
