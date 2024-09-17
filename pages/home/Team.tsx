@@ -86,7 +86,7 @@ const TeamMemberItem = ({ member }: { member: TeamMemberDTO }) => {
       <div className="flex justify-center items-center gap-[12px]">
         <a href="https://linkedin.com" target="_blank">
           <Image
-            src={'/images/icon/linkedin.svg'}
+            src={'/images/icon/linkedin1.svg'}
             width={24}
             height={24}
             sizes="100vw"
